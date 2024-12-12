@@ -104,6 +104,9 @@ Ya que tengas cargada la carpeta ve al menú terminal -> nueva terminal
     - Abre un archivo `.ipynb`.
     - Asegúrate de seleccionar el entorno virtual como intérprete.
 
+    
+
+
 ## Progreso
 Para llevar un control de tu avance, utiliza el archivo `progress/template_progreso.json` como base. Completa el archivo con tus datos y sincronízalo con el servidor usando `sincronizar_progreso.py`.
 
