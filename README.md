@@ -103,6 +103,10 @@ Ya que tengas cargada la carpeta ve al menú terminal -> nueva terminal
     - Navega a la carpeta `notebooks`.
     - Abre un archivo `.ipynb`.
     - Asegúrate de seleccionar el entorno virtual como intérprete.
+      Al ejecutar, por primera vez, una celda de código te pedirá seleccionar el interprete.
+      **Debes de seleccionar el del ambiente virtual:**
+      ![Captura de pantalla 2024-12-11 a la(s) 4 51 45 p m  (2)](https://github.com/user-attachments/assets/faf884bf-53f7-4ce0-9b12-d9df014f5e74)
+
 
     
 
