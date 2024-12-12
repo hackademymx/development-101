@@ -111,7 +111,19 @@ Ya que tengas cargada la carpeta ve al menú terminal -> nueva terminal
     
 
 
-## Progreso
-Para llevar un control de tu avance, utiliza el archivo `progress/template_progreso.json` como base. Completa el archivo con tus datos y sincronízalo con el servidor usando `sincronizar_progreso.py`.
+## Progreso de los temas
+Para llevar un control de tu avance en cada Notebook encontrarás una celda, al final, en la que deberás de agregar tu correo y tu nombre completo para después ejecutarlar. 
+Si te responde con un error, vuelve a correr la celda ya que ello indica que no se ha sincronizado con el servidor.
+
+
+## Ejercicios y avance
+
+Aquí mismo encontrarás una carpeta llamada **ejercicios** donde vienen 8 carpetas con 1 ejercicio cada una.
+
+1. Abre el archivo main.py y busca `USER_MAIL`, agrega por tu correo y guarda el archivo.
+2. Debes de abrir la carpeta y el archivo `solucion.py` de cada ejercicio.
+3. En este archivo debes de escribir el código de tu solución.
+4. ¡No olvides de guardar!
+5. En la terminal debes de correr el comando `python main.py <carpeta del ejercicio> "nombre del ejercicio"` (en la terminal debes de estar en el directorio raíz del curso) ejemplo: python main.py 7_funciones_numero_primos "numeros primos" 
 
 ¡Buena suerte!
