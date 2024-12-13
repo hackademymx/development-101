@@ -90,7 +90,7 @@ Ya que tengas cargada la carpeta ve al menú terminal -> nueva terminal
 
 3. **Crea y activa un entorno virtual** escribiendo los siguientes comando en la terminal que acabas de abrir:
     ```bash
-    python -m venv env
+    python3 -m venv env
     source env/bin/activate  # En Windows usa env\Scripts\activate
     ```
 
